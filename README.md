@@ -1,4 +1,4 @@
-# data-analytics-projects
+# Analysis of COVID Hospital Admission and General Hospital Particulars
 ## Project - Analysis of COVID Hospital Admission and General Hospital Particulars
 ### Contributors- Amisha Kelkar, Huawan Zhong, Peng Zhao, Rinaldo Brendon Patel, Yucheng He, Zehui Wang
 The report looks at how hospitals in the United States handled COVID-19 hospitalizations. We reviewed data with respect to hospital ownership, bed capacity, and confirmed COVID-19 cases to learn how well hospitals managed the incremental surge in patients during the pandemic.
