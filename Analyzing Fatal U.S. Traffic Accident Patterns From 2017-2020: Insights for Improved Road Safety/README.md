@@ -1,3 +1,6 @@
+# Analyzing Fatal U.S. Traffic Accident Patterns From 2017-2020: Insights for Improved Road Safety
+## Project - Analyzing Fatal U.S. Traffic Accident Patterns From 2017-2020: Insights for Improved Road Safety
+### Contributors- Amisha Kelkar, Brendan Wilcox, Courtney Vincent, Mohammed Zaid Bin Haris, Siddharth Kant
 ## Executive Summary
 **Introduction**<br>
 This report performs various analyses using the *nhtsa_traffic_fatalities* dataset to provide recommendations to various U.S. government stakeholders that could help prevent and improve the response to fatal traffic accidents.
